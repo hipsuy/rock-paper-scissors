@@ -1,0 +1,1 @@
+A program for playing rock paper scissors against the computer.
